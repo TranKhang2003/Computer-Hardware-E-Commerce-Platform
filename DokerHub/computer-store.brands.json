@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0c6"
+  },
+  "name": "Dell",
+  "slug": "dell",
+  "logoUrl": "https://example.com/logos/dell.png",
+  "description": "Thương hiệu Dell",
+  "websiteUrl": "https://www.dell.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0c7"
+  },
+  "name": "HP",
+  "slug": "hp",
+  "logoUrl": "https://example.com/logos/hp.png",
+  "description": "Thương hiệu HP",
+  "websiteUrl": "https://www.hp.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0c8"
+  },
+  "name": "Lenovo",
+  "slug": "lenovo",
+  "logoUrl": "https://example.com/logos/lenovo.png",
+  "description": "Thương hiệu Lenovo",
+  "websiteUrl": "https://www.lenovo.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "name": "ASUS",
+  "slug": "asus",
+  "logoUrl": "https://example.com/logos/asus.png",
+  "description": "Thương hiệu ASUS",
+  "websiteUrl": "https://www.asus.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0ca"
+  },
+  "name": "Acer",
+  "slug": "acer",
+  "logoUrl": "https://example.com/logos/acer.png",
+  "description": "Thương hiệu Acer",
+  "websiteUrl": "https://www.acer.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "name": "MSI",
+  "slug": "msi",
+  "logoUrl": "https://example.com/logos/msi.png",
+  "description": "Thương hiệu MSI",
+  "websiteUrl": "https://www.msi.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0cc"
+  },
+  "name": "Samsung",
+  "slug": "samsung",
+  "logoUrl": "https://example.com/logos/samsung.png",
+  "description": "Thương hiệu Samsung",
+  "websiteUrl": "https://www.samsung.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b807e472f50e01c0cd"
+  },
+  "name": "LG",
+  "slug": "lg",
+  "logoUrl": "https://example.com/logos/lg.png",
+  "description": "Thương hiệu LG",
+  "websiteUrl": "https://www.lg.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+}]

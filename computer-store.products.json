@@ -1,0 +1,1748 @@
+[{
+  "_id": {
+    "$oid": "691f1f2f820f61ae9c734596"
+  },
+  "sku": "LAP-3A18",
+  "name": "Laptop Acer Swift X14 SFX14 72G 77F9",
+  "slug": "laptop-acer-swift-x14-sfx14-72g-77f9",
+  "description": "Acer Swift X14 SFX14 72G 77F9 được phủ lên mình một lớp áo với màu sắc quen thuộc Steel Gray sang trọng kết hợp cùng trọng lượng và kích thước lần lượt là 1.5kg và 322.79(W) x 228.12(D) x 17.9(H) mm mang đến cho người dùng một sản phẩm với ngoại hình ưa nhìn, nhỏ gọn, đặc biệt dễ dàng mang theo bên mình với những khách hàng thường xuyên di chuyển. Mặt B của máy được làm từ chất liệu nhựa, còn 3 mặt còn lại làm từ nhôm, điều này giúp Acer Swift X14 có trọng lượng vô cùng nhỏ gọn tiện mang đi bất kỳ đâu. Logo máy được nhà Acer làm nhỏ lại và được đặt sát bên trên phần bề mặt lưng máy tạo cảm giác nhìn thoáng mắt.",
+  "shortDescription": "chiếc laptop mỏng nhẹ nhưng hiệu năng mạnh mẽ",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0ca"
+  },
+  "basePrice": 44990000,
+  "discount": 21,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/cbd878fc-5491-44ec-a02c-2e718820f0e8.jpg",
+      "altText": "Laptop Acer Swift X14 SFX14 72G 77F9 - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f1f34820f61ae9c7345b2"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/4d13fd30-b179-46ce-a426-c2ac192b2c4f.png",
+      "altText": "Laptop Acer Swift X14 SFX14 72G 77F9 - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f1f34820f61ae9c7345b3"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/3c5acb90-683d-4b1f-a811-6d17ddd31f84.png",
+      "altText": "Laptop Acer Swift X14 SFX14 72G 77F9 - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f1f34820f61ae9c7345b4"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "LAP-3A18-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f1f2f820f61ae9c73459a"
+      }
+    },
+    {
+      "sku": "LAP-3A18-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 5010000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f1f2f820f61ae9c73459b"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 30,
+  "soldCount": 0,
+  "averageRating": 3.5,
+  "reviewCount": 2,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:01:19.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T01:55:38.524Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691f1fd0820f61ae9c7346ff"
+  },
+  "sku": "LAP-75D4",
+  "name": "Laptop ASUS Zenbook 14 UX3405CA PZ204WS",
+  "slug": "laptop-asus-zenbook-14-ux3405ca-pz204ws",
+  "description": "Intel® Core™ Ultra 9 Processor 285H 2.9 GHz (24MB Cache, up to 5.4 GHz, 16 cores, 16 Threads); Intel® AI Boost NPU up to 13",
+  "shortDescription": "Windows bản quyền tích hợp",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 38990000,
+  "discount": 15,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/9001edbe-5a7a-453e-b84a-268e77c23fcd.png",
+      "altText": "Laptop ASUS Zenbook 14 UX3405CA PZ204WS - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f1fd0820f61ae9c734700"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/aa3fbeb1-6e5d-437c-948a-45597767b0a8.png",
+      "altText": "Laptop ASUS Zenbook 14 UX3405CA PZ204WS - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f1fd0820f61ae9c734701"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/6100d8b9-7685-4ad1-9b86-db24ab68a5cc.png",
+      "altText": "Laptop ASUS Zenbook 14 UX3405CA PZ204WS - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f1fd0820f61ae9c734702"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "LAP-75D4-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f1fd0820f61ae9c734703"
+      }
+    },
+    {
+      "sku": "LAP-75D4-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 10010000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f1fd0820f61ae9c734704"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 16,
+  "soldCount": 0,
+  "averageRating": 4,
+  "reviewCount": 2,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:04:00.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T04:48:46.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f2058820f61ae9c73471e"
+  },
+  "sku": "LAP-394C",
+  "name": "Laptop MSI Prestige 14 AI Studio C1VEG 056VN",
+  "slug": "laptop-msi-prestige-14-ai-studio-c1veg-056vn",
+  "description": "1x Type-A USB3.2 Gen2\n1x Type-C (USB3.2 Gen2 / DisplayPort™/ Power Delivery 3.0)\n1x Thunderbolt™ 4 (DisplayPort™/ Power Delivery 3.1)\n1x Mic-in/Headphone-out Combo Jac\n1x HDMI™ 2.1 (8K @ 60Hz / 4K @ 120Hz)",
+  "shortDescription": "Bảo hành chính hãng 24 tháng.",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "basePrice": 36990000,
+  "discount": 14,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/1fb4b990-499d-451c-a334-804544ca0b08.png",
+      "altText": "Laptop MSI Prestige 14 AI Studio C1VEG 056VN - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f2058820f61ae9c73471f"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/03a69799-1a49-44ec-9cc6-9cb935d51aab.png",
+      "altText": "Laptop MSI Prestige 14 AI Studio C1VEG 056VN - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2058820f61ae9c734720"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/c873badc-2050-4158-8583-48c5e54d2cf6.png",
+      "altText": "Laptop MSI Prestige 14 AI Studio C1VEG 056VN - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2058820f61ae9c734721"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "LAP-394C-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2058820f61ae9c734722"
+      }
+    },
+    {
+      "sku": "LAP-394C-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1010000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2058820f61ae9c734723"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 0,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:06:16.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T14:06:16.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f20ec820f61ae9c73473d"
+  },
+  "sku": "LAP-AE04",
+  "name": "Laptop Lenovo IdeaPad Slim 3 14IRH10 83K0000BVN",
+  "slug": "laptop-lenovo-ideapad-slim-3-14irh10-83k0000bvn",
+  "description": "Hỗ trợ đổi mới trong 7 ngày\nHỗ trợ đổi mới trong 7 ngày\nHỗ trợ đổi mới trong 7 ngày\nHỗ trợ đổi mới trong 7 ngày",
+  "shortDescription": "Bảo hành chính hãng 24 tháng",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c8"
+  },
+  "basePrice": 18990000,
+  "discount": 9,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/b76a7b68-0ea6-4d70-a7ce-e67efa770cf3.png",
+      "altText": "Laptop Lenovo IdeaPad Slim 3 14IRH10 83K0000BVN - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f20ec820f61ae9c73473e"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/e6f8d2ee-34f6-460b-a6dd-3f05ffe1b7eb.png",
+      "altText": "Laptop Lenovo IdeaPad Slim 3 14IRH10 83K0000BVN - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f20ec820f61ae9c73473f"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/1904579b-b0b5-42be-9b52-f89ad86541dd.png",
+      "altText": "Laptop Lenovo IdeaPad Slim 3 14IRH10 83K0000BVN - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f20ec820f61ae9c734740"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "LAP-AE04-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f20ec820f61ae9c734741"
+      }
+    },
+    {
+      "sku": "LAP-AE04-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 3000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f20ec820f61ae9c734742"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 2,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:08:44.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T04:47:50.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f21b0820f61ae9c73475c"
+  },
+  "sku": "LAP-99B1",
+  "name": "Laptop Dell Inspirion N3530 i5U165W11SLU (1334U)",
+  "slug": "laptop-dell-inspirion-n3530-i5u165w11slu-1334u",
+  "description": "Intel Core i5 Raptor Lake - 1334U, up to 4.6GHz, 10 Nhân, 12 Luồng\n",
+  "shortDescription": "Windows bản quyền tích hợp",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c6"
+  },
+  "basePrice": 18490000,
+  "discount": 14,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/5d6ab616-fede-4f93-8b4d-d5187c9ebdcb.png",
+      "altText": "Laptop Dell Inspirion N3530 i5U165W11SLU (1334U) - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f21b0820f61ae9c73475d"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/4a699e83-4b69-4e3c-bfac-8e1acbaec01c.png",
+      "altText": "Laptop Dell Inspirion N3530 i5U165W11SLU (1334U) - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f21b0820f61ae9c73475e"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/e2bba5bc-a8b5-45f4-be3b-2e6c6be7c42d.png",
+      "altText": "Laptop Dell Inspirion N3530 i5U165W11SLU (1334U) - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f21b0820f61ae9c73475f"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "LAP-99B1-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f21b0820f61ae9c734760"
+      }
+    },
+    {
+      "sku": "LAP-99B1-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f21b0820f61ae9c734761"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 6,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:12:00.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T01:13:16.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f22be820f61ae9c73477b"
+  },
+  "sku": "LAP-6A16",
+  "name": "Laptop gaming MSI Katana 15 HX B14WEK 027VN",
+  "slug": "laptop-gaming-msi-katana-15-hx-b14wek-027vn",
+  "description": "Miễn phí giao hàng toàn quốc.Miễn phí giao hàng toàn quốc.Miễn phí giao hàng toàn quốc.Miễn phí giao hàng toàn quốc.Miễn phí giao hàng toàn quốc.",
+  "shortDescription": "Miễn phí giao hàng toàn quốc.",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "basePrice": 38490000,
+  "discount": 16,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/103f6749-2400-4369-bad6-3e64ef9b01bb.png",
+      "altText": "Laptop gaming MSI Katana 15 HX B14WEK 027VN - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f22be820f61ae9c73477c"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/e4f64c99-e9d1-4766-9911-bd76f7cd01e5.png",
+      "altText": "Laptop gaming MSI Katana 15 HX B14WEK 027VN - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f22be820f61ae9c73477d"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/ddf655e7-5b4c-44a6-962d-6232bb295be0.png",
+      "altText": "Laptop gaming MSI Katana 15 HX B14WEK 027VN - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f22be820f61ae9c73477e"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "LAP-6A16-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 98,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f22be820f61ae9c73477f"
+      }
+    },
+    {
+      "sku": "LAP-6A16-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 2000000,
+      "stockQuantity": 99,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f22be820f61ae9c734780"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 25,
+  "soldCount": 3,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:16:30.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T14:16:30.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f23b2820f61ae9c73479a"
+  },
+  "sku": "MON-E620",
+  "name": "Màn hình ASUS TUF GAMING VG27AQ5A 27\" Fast IPS 2K 210Hz chuyên game",
+  "slug": "mn-hnh-asus-tuf-gaming-vg27aq5a-27-fast-ips-2k-210hz-chuyn-game",
+  "description": "ASUS TUF GAMING VG27AQ5A sở hữu màn hình 27 inch với độ phân giải 2560 x 1440 (2K), mang đến độ chi tiết cao cho trải nghiệm chơi game và xem phim. Độ phân giải này giúp hiển thị hình ảnh sắc nét hơn so với các màn hình Full HD truyền thống.",
+  "shortDescription": "Màn hình ASUS TUF GAMING VG27AQ5A",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c1"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 5990000,
+  "discount": 17,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/ddbe5e54-d5f1-47da-985a-d03c01102dca.jpg",
+      "altText": "Màn hình ASUS TUF GAMING VG27AQ5A 27\" Fast IPS 2K 210Hz chuyên game - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f23b2820f61ae9c73479b"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/b02f501d-8415-4cd3-b7a6-de35fd29413e.jpg",
+      "altText": "Màn hình ASUS TUF GAMING VG27AQ5A 27\" Fast IPS 2K 210Hz chuyên game - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f23b2820f61ae9c73479c"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/c71f0c98-0faa-4be3-8fcf-45c05a340188.jpg",
+      "altText": "Màn hình ASUS TUF GAMING VG27AQ5A 27\" Fast IPS 2K 210Hz chuyên game - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f23b2820f61ae9c73479d"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "MON-E620-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f23b2820f61ae9c73479e"
+      }
+    },
+    {
+      "sku": "MON-E620-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 2000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f23b2820f61ae9c73479f"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 13,
+  "soldCount": 0,
+  "averageRating": 3,
+  "reviewCount": 1,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:20:34.576Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T01:34:10.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f2442820f61ae9c7347b9"
+  },
+  "sku": "MON-0C7F",
+  "name": "Màn hình LG 27US500-W Ultrafine 27\" IPS 4K HDR10",
+  "slug": "mn-hnh-lg-27us500-w-ultrafine-27-ips-4k-hdr10",
+  "description": "LG 27US500-W Ultrafine LG 27US500-W Ultrafine LG 27US500-W Ultrafine LG 27US500-W Ultrafine LG 27US500-W Ultrafine ",
+  "shortDescription": "LG 27US500-W Ultrafine ",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c1"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cd"
+  },
+  "basePrice": 6990000,
+  "discount": 23,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/174a6d0c-86ed-4c69-ad11-c5b0a25fdf06.jpg",
+      "altText": "Màn hình LG 27US500-W Ultrafine 27\" IPS 4K HDR10 - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f2442820f61ae9c7347ba"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/2ea2f909-cc0d-464d-b96c-651100a0cc39.jpg",
+      "altText": "Màn hình LG 27US500-W Ultrafine 27\" IPS 4K HDR10 - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2442820f61ae9c7347bb"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/6b955076-c1d2-400a-99c5-797578526d8c.jpg",
+      "altText": "Màn hình LG 27US500-W Ultrafine 27\" IPS 4K HDR10 - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2442820f61ae9c7347bc"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "MON-0C7F-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2442820f61ae9c7347bd"
+      }
+    },
+    {
+      "sku": "MON-0C7F-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 3000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2442820f61ae9c7347be"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 12,
+  "soldCount": 0,
+  "averageRating": 3,
+  "reviewCount": 1,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:22:58.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T01:05:30.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f24b6820f61ae9c7347d8"
+  },
+  "sku": "MON-3EC8",
+  "name": "Màn hình MSI MAG 274QF X24 27\" Rapid IPS 2K 240Hz chuyên game",
+  "slug": "mn-hnh-msi-mag-274qf-x24-27-rapid-ips-2k-240hz-chuyn-game",
+  "description": "MSI MAG 274QF X24 27\"MSI MAG 274QF X24 27\"MSI MAG 274QF X24 27\"MSI MAG 274QF X24 27\"MSI MAG 274QF X24 27\"",
+  "shortDescription": "MSI MAG 274QF X24 27\"",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c1"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "basePrice": 5490000,
+  "discount": 0,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/da9af216-2ac1-49a0-85bb-9c30ff79d933.jpg",
+      "altText": "Màn hình MSI MAG 274QF X24 27\" Rapid IPS 2K 240Hz chuyên game - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f24b6820f61ae9c7347d9"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/310a1b98-5ef5-4eb2-8415-540850f50ba7.png",
+      "altText": "Màn hình MSI MAG 274QF X24 27\" Rapid IPS 2K 240Hz chuyên game - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f24b6820f61ae9c7347da"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/dbb247f2-55ee-406d-b959-e133c2a7240f.png",
+      "altText": "Màn hình MSI MAG 274QF X24 27\" Rapid IPS 2K 240Hz chuyên game - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f24b6820f61ae9c7347db"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "MON-3EC8-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f24b6820f61ae9c7347dc"
+      }
+    },
+    {
+      "sku": "MON-3EC8-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 3000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f24b6820f61ae9c7347dd"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 8,
+  "soldCount": 0,
+  "averageRating": 5,
+  "reviewCount": 1,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:24:54.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T00:37:53.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f2584820f61ae9c7347f7"
+  },
+  "sku": "COM-6763",
+  "name": "Mainboard MSI PRO H610M-E DDR4",
+  "slug": "mainboard-msi-pro-h610m-e-ddr4",
+  "description": "- Chuẩn mainboard: Micro-ATX\n- Socket: 1700 , Chipset: H610\n- Hỗ trợ RAM: 2 khe DDR4, tối đa 64GB\n- Lưu trữ: 4 x SATA 3 6Gb/s, 1 x M.2 NVMe\n- Cổng xuất hình: 1 x HDMI, 1 x VGA/D-sub",
+  "shortDescription": "Chuẩn mainboard: Micro-ATX",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c2"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "basePrice": 2490000,
+  "discount": 28,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/8d1581d7-ae84-4835-b86b-49a411331f4a.webp",
+      "altText": "Mainboard MSI PRO H610M-E DDR4 - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f2584820f61ae9c7347f8"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/d5d2745c-cc49-4551-b8b7-05bd702414e6.webp",
+      "altText": "Mainboard MSI PRO H610M-E DDR4 - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2584820f61ae9c7347f9"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/757b1f99-8966-4356-a8e7-f9245e79b08b.webp",
+      "altText": "Mainboard MSI PRO H610M-E DDR4 - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2584820f61ae9c7347fa"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "COM-6763-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2584820f61ae9c7347fb"
+      }
+    },
+    {
+      "sku": "COM-6763-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2584820f61ae9c7347fc"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 0,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:28:20.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T14:28:20.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f28a34f06e42efa364f7c"
+  },
+  "sku": "COM-5C23",
+  "name": "Card màn hình ASUS PRIME GeForce RTX™ 5060 Ti 16GB GDDR7 OC Edition (90YV0MH2-M0NA00)",
+  "slug": "card-mn-hnh-asus-prime-geforce-rtx-5060-ti-16gb-gddr7-oc-edition-90yv0mh2-m0na00",
+  "description": "Chip đồ họa: GeForce RTX 5060Ti\n- Bộ nhớ: 16GB GDDR7 (128-bit)\n- OC mode: 2647MHz\nDefault mode: 2617MHz (Boost Clock)\n- Nguồn phụ: 1 x 8-pin",
+  "shortDescription": "SKU: 250509147",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c2"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 19125000,
+  "discount": 11,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/5603c88c-6ac1-48a2-8bb5-8ee8bb1df54a.webp",
+      "altText": "Card màn hình ASUS PRIME GeForce RTX™ 5060 Ti 16GB GDDR7 OC Edition (90YV0MH2-M0NA00) - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f28a34f06e42efa364f7d"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/923b6d37-495c-4eb0-a565-a1f6596dd529.webp",
+      "altText": "Card màn hình ASUS PRIME GeForce RTX™ 5060 Ti 16GB GDDR7 OC Edition (90YV0MH2-M0NA00) - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f28a34f06e42efa364f7e"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/c2f01a7f-da7b-482d-bf72-2f956e6cfabb.webp",
+      "altText": "Card màn hình ASUS PRIME GeForce RTX™ 5060 Ti 16GB GDDR7 OC Edition (90YV0MH2-M0NA00) - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f28a34f06e42efa364f7f"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "COM-5C23-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f28a34f06e42efa364f80"
+      }
+    },
+    {
+      "sku": "COM-5C23-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 2000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f28a34f06e42efa364f81"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 2,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T14:41:39.697Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T00:58:58.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f2db74f06e42efa364f9b"
+  },
+  "sku": "COM-B9E2",
+  "name": "Ổ cứng SSD Kingston NV3 M.2 2280 PCIe Gen 4.0 NVMe 500G (SNV3S/500G)",
+  "slug": "cng-ssd-kingston-nv3-m2-2280-pcie-gen-40-nvme-500g-snv3s500g",
+  "description": " Dung lượng: 2TB\n- Kích thước: M.2 2280\n- Kết nối: M.2 NVMe\n- NAND: 3D-NAND\n- Tốc độ đọc/ghi (tối đa): 6000MB/s | 5000MB/s",
+  "shortDescription": "SKU: 240901737",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c4"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c7"
+  },
+  "basePrice": 5990000,
+  "discount": 17,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/c1eb57c1-566b-4cf7-afa6-0db3faba406a.webp",
+      "altText": "Ổ cứng SSD Kingston NV3 M.2 2280 PCIe Gen 4.0 NVMe 500G (SNV3S/500G) - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f328f4f06e42efa365090"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/2bf50aff-430c-4808-af4e-a9fd9f16dce6.webp",
+      "altText": "Ổ cứng SSD Kingston NV3 M.2 2280 PCIe Gen 4.0 NVMe 500G (SNV3S/500G) - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f328f4f06e42efa365091"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/b885be59-d29a-4447-9262-3d92cbdb71ca.webp",
+      "altText": "Ổ cứng SSD Kingston NV3 M.2 2280 PCIe Gen 4.0 NVMe 500G (SNV3S/500G) - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f328f4f06e42efa365092"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "COM-B9E2-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2db74f06e42efa364f9f"
+      }
+    },
+    {
+      "sku": "COM-B9E2-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2db74f06e42efa364fa0"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 0,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:03:19.809Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:03:19.809Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691f2e6e4f06e42efa364fba"
+  },
+  "sku": "ACC-894F",
+  "name": "Thùng máy/ CASE ASUS A31 ATX BLACK 4FA",
+  "slug": "thng-my-case-asus-a31-atx-black-4fa",
+  "description": "hỗ trợ mainboard: Mini-ITX, ATX, Micro-ATXỗ trợ mainboard: Mini-ITX, ATX, Micro-ATXỗ trợ mainboard: Mini-ITX, ATX, Micro-ATXỗ trợ mainboard: Mini-ITX, ATX, Micro-ATX",
+  "shortDescription": "hỗ trợ mainboard: Mini-ITX, ATX, Micro-ATX",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 2190000,
+  "discount": 16,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/35d8624e-8fd2-4856-8395-e972ab7d87bb.webp",
+      "altText": "Thùng máy/ CASE ASUS A31 ATX BLACK 4FA - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f2e6e4f06e42efa364fbb"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/7328603f-44dc-4b3d-aa68-8bd1f6e4e306.webp",
+      "altText": "Thùng máy/ CASE ASUS A31 ATX BLACK 4FA - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2e6e4f06e42efa364fbc"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/3bb799fc-9502-4af9-83c8-26ecade4359c.webp",
+      "altText": "Thùng máy/ CASE ASUS A31 ATX BLACK 4FA - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2e6e4f06e42efa364fbd"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "ACC-894F-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2e6e4f06e42efa364fbe"
+      }
+    },
+    {
+      "sku": "ACC-894F-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2e6e4f06e42efa364fbf"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 0,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:06:22.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:06:22.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f2fa64f06e42efa364fd9"
+  },
+  "sku": "ACC-DDA4",
+  "name": "Thùng máy/ CASE MSI PAG PANO M110A",
+  "slug": "thng-my-case-msi-pag-pano-m110a",
+  "description": " Hỗ trợ mainboard: Micro-ATX, Mini-ITX Hỗ trợ mainboard: Micro-ATX, Mini-ITX Hỗ trợ mainboard: Micro-ATX, Mini-ITX",
+  "shortDescription": " Hỗ trợ mainboard: Micro-ATX, Mini-ITX",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "basePrice": 1190000,
+  "discount": 17,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/b0eb061b-aa02-449a-9596-00e9543976f9.webp",
+      "altText": "Thùng máy/ CASE MSI PAG PANO M110A - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f2fa64f06e42efa364fda"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/e85a89a8-9d40-4373-92da-bc697d8cbe3e.webp",
+      "altText": "Thùng máy/ CASE MSI PAG PANO M110A - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2fa64f06e42efa364fdb"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/8f8925b8-1e8e-4e12-bed3-9f1b52708cf7.webp",
+      "altText": "Thùng máy/ CASE MSI PAG PANO M110A - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f2fa64f06e42efa364fdc"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "ACC-DDA4-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2fa64f06e42efa364fdd"
+      }
+    },
+    {
+      "sku": "ACC-DDA4-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f2fa64f06e42efa364fde"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 4,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:11:34.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:11:34.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f30244f06e42efa364ff8"
+  },
+  "sku": "ACC-845A",
+  "name": "Thùng máy/ Case ASUS ROG HYPERION GR701 WHITE / Trắng (90DC00F3-B39000)",
+  "slug": "thng-my-case-asus-rog-hyperion-gr701-white-trng-90dc00f3-b39000",
+  "description": "Hỗ trợ mainboard: EATX, ATX, Micro-ATXHỗ trợ mainboard: EATX, ATX, Micro-ATXHỗ trợ mainboard: EATX, ATX, Micro-ATX",
+  "shortDescription": "Hỗ trợ mainboard: EATX, ATX, Micro-ATX",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 11390000,
+  "discount": 4,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/e50a8669-c726-407c-92de-079bbeccbbb9.webp",
+      "altText": "Thùng máy/ Case ASUS ROG HYPERION GR701 WHITE / Trắng (90DC00F3-B39000) - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f30244f06e42efa364ff9"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/f5bad239-c0a3-4068-85a7-c4daa632b266.webp",
+      "altText": "Thùng máy/ Case ASUS ROG HYPERION GR701 WHITE / Trắng (90DC00F3-B39000) - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f30244f06e42efa364ffa"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/71a2a998-3285-4de8-be00-97de0bdb5dc0.webp",
+      "altText": "Thùng máy/ Case ASUS ROG HYPERION GR701 WHITE / Trắng (90DC00F3-B39000) - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f30244f06e42efa364ffb"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "ACC-845A-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f30244f06e42efa364ffc"
+      }
+    },
+    {
+      "sku": "ACC-845A-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 2000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f30244f06e42efa364ffd"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 0,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:13:40.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:13:40.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f30be4f06e42efa365017"
+  },
+  "sku": "ACC-1219",
+  "name": "Tản nhiệt nước/ Cooler ASUS ROG RYUO IV SLC 360 ARGB",
+  "slug": "tn-nhit-nc-cooler-asus-rog-ryuo-iv-slc-360-argb",
+  "description": "- Tên sản phẩm: ROG RYUO IV SLC 360 ARGB\n- Dạng tản nhiệt: Tản nước\n- Chất liệu: Nhôm- Tên sản phẩm: ROG RYUO IV SLC 360 ARGB\n- Dạng tản nhiệt: Tản nước\n- Chất liệu: Nhôm",
+  "shortDescription": "ROG RYUO IV SLC 360 ARGB",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 9990000,
+  "discount": 10,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/2793c243-e6bc-4d59-9add-c238dd950010.webp",
+      "altText": "Tản nhiệt nước/ Cooler ASUS ROG RYUO IV SLC 360 ARGB - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f30be4f06e42efa365018"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/8148c225-884a-44a9-ad8d-936806cdd205.webp",
+      "altText": "Tản nhiệt nước/ Cooler ASUS ROG RYUO IV SLC 360 ARGB - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f30be4f06e42efa365019"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/9cc8f462-f077-4eac-9c05-b90524695061.webp",
+      "altText": "Tản nhiệt nước/ Cooler ASUS ROG RYUO IV SLC 360 ARGB - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f30be4f06e42efa36501a"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "ACC-1219-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 99,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f30be4f06e42efa36501b"
+      }
+    },
+    {
+      "sku": "ACC-1219-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f30be4f06e42efa36501c"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 8,
+  "soldCount": 1,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:16:14.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T00:23:05.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f31444f06e42efa365036"
+  },
+  "sku": "ACC-4181",
+  "name": "Tản nhiệt nước MSI MAG CORELIQUID I360 WHITE",
+  "slug": "tn-nhit-nc-msi-mag-coreliquid-i360-white",
+  "description": "- Tên sản phẩm: MAG CORELIQUID I360\n- Dạng tản nhiệt: Tản nước\n- Chất liệu: Nhôm",
+  "shortDescription": "MAG CORELIQUID I360",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cb"
+  },
+  "basePrice": 4190000,
+  "discount": 14,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/c81a9663-957d-4d0b-beb7-7cee3f61f7e1.webp",
+      "altText": "Tản nhiệt nước MSI MAG CORELIQUID I360 WHITE - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f31444f06e42efa365037"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/caff5ecc-c551-423d-b38d-ec3a4689d111.webp",
+      "altText": "Tản nhiệt nước MSI MAG CORELIQUID I360 WHITE - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f31444f06e42efa365038"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/ad4bf1a1-8792-4434-8b1f-47acc6eab549.webp",
+      "altText": "Tản nhiệt nước MSI MAG CORELIQUID I360 WHITE - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f31444f06e42efa365039"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "ACC-4181-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f31444f06e42efa36503a"
+      }
+    },
+    {
+      "sku": "ACC-4181-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 1000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f31444f06e42efa36503b"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 8,
+  "soldCount": 0,
+  "averageRating": 0,
+  "reviewCount": 0,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:18:28.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T00:57:54.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f31ab4f06e42efa365055"
+  },
+  "sku": "ACC-D0AB",
+  "name": "Tản nhiệt nước ASUS ROG RYUJIN III 360 ARGB WHITE / Trắng",
+  "slug": "tn-nhit-nc-asus-rog-ryujin-iii-360-argb-white-trng",
+  "description": "- Tên sản phẩm: ASUS ROG RYUJIN III 360 ARGB WHITE \n- Dạng tản nhiệt: Tản nước \n- Socket hỗ trợ: AMD AM5, AMD AM4, Intel LGA 1700, Intel LGA 1200, Intel LGA 115X\n- Chất liệu: Đồng",
+  "shortDescription": "ARGB WHITE ",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0c9"
+  },
+  "basePrice": 11500000,
+  "discount": 20,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/30071245-290d-45a1-9e1d-f67a4a2a01ec.webp",
+      "altText": "Tản nhiệt nước ASUS ROG RYUJIN III 360 ARGB WHITE / Trắng - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f31ab4f06e42efa365056"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/5c9be7d1-d0a1-4069-aa4b-7d7fb4c525b1.webp",
+      "altText": "Tản nhiệt nước ASUS ROG RYUJIN III 360 ARGB WHITE / Trắng - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f31ab4f06e42efa365057"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/4a292b2d-ce36-4a5d-a5aa-67eaa77d80f2.webp",
+      "altText": "Tản nhiệt nước ASUS ROG RYUJIN III 360 ARGB WHITE / Trắng - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f31ab4f06e42efa365058"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "ACC-D0AB-V01",
+      "name": "Standard",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 95,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f31ab4f06e42efa365059"
+      }
+    },
+    {
+      "sku": "ACC-D0AB-V02",
+      "name": "Premium",
+      "attributes": {},
+      "priceAdjustment": 2000000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f31ab4f06e42efa36505a"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 25,
+  "soldCount": 5,
+  "averageRating": 5,
+  "reviewCount": 1,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:20:11.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T23:47:29.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f325d4f06e42efa365074"
+  },
+  "sku": "STO-9F87",
+  "name": "Ổ cứng SSD Samsung 870 EVO 500GB SATA III 2.5 inch (MZ-77E500BW)",
+  "slug": "cng-ssd-samsung-870-evo-500gb-sata-iii-25-inch-mz-77e500bw",
+  "description": "Tốc độ đọc/ghi (tối đa): 560MB/s | 530MB/sTốc độ đọc/ghi (tối đa): 560MB/s | 530MB/sTốc độ đọc/ghi (tối đa): 560MB/s | 530MB/sTốc độ đọc/ghi (tối đa): 560MB/s | 530MB/s",
+  "shortDescription": "Tốc độ đọc/ghi (tối đa): 560MB/s | 530MB/s",
+  "categoryId": {
+    "$oid": "6911c1b207e472f50e01c0c4"
+  },
+  "brandId": {
+    "$oid": "6911c1b807e472f50e01c0cc"
+  },
+  "basePrice": 4490000,
+  "discount": 30,
+  "costPrice": null,
+  "status": "active",
+  "images": [
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/61a952f2-8b02-4b8a-8bd1-54d4d740d479.webp",
+      "altText": "Ổ cứng SSD Samsung 870 EVO 500GB SATA III 2.5 inch (MZ-77E500BW) - Image 1",
+      "displayOrder": 0,
+      "isPrimary": true,
+      "_id": {
+        "$oid": "691f325d4f06e42efa365075"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/79a16cca-9f2a-46ee-8857-ee42cf2e55e4.webp",
+      "altText": "Ổ cứng SSD Samsung 870 EVO 500GB SATA III 2.5 inch (MZ-77E500BW) - Image 2",
+      "displayOrder": 1,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f325d4f06e42efa365076"
+      }
+    },
+    {
+      "url": "https://computerstore.s3.ap-southeast-1.amazonaws.com/products/2353c08a-051a-4921-9953-7079f68cc5e6.webp",
+      "altText": "Ổ cứng SSD Samsung 870 EVO 500GB SATA III 2.5 inch (MZ-77E500BW) - Image 3",
+      "displayOrder": 2,
+      "isPrimary": false,
+      "_id": {
+        "$oid": "691f325d4f06e42efa365077"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "sku": "STO-9F87-V01",
+      "name": "1TB",
+      "attributes": {},
+      "priceAdjustment": 0,
+      "stockQuantity": 96,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f325d4f06e42efa365078"
+      }
+    },
+    {
+      "sku": "STO-9F87-V02",
+      "name": "4TB",
+      "attributes": {},
+      "priceAdjustment": 10009000,
+      "stockQuantity": 100,
+      "lowStockThreshold": 5,
+      "imageUrl": "",
+      "isActive": true,
+      "_id": {
+        "$oid": "691f325d4f06e42efa365079"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "isNew": true,
+  "isBestseller": true,
+  "viewCount": 48,
+  "soldCount": 4,
+  "averageRating": 3.5,
+  "reviewCount": 2,
+  "specifications": {},
+  "createdAt": {
+    "$date": "2025-11-20T15:23:09.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:23:09.060Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,427 @@
+[{
+  "_id": {
+    "$oid": "69172f81852401fe2b1c5f4a"
+  },
+  "orderNumber": "ORD-20251114-001",
+  "userId": {
+    "$oid": "69172d11bcdc1cbba5b10938"
+  },
+  "customerEmail": "vykhang2k3@gmail.com",
+  "customerName": "Tran Khang",
+  "customerPhone": "0359545647",
+  "shippingAddress": {
+    "addressLine1": "tân uyên , bình dương",
+    "addressLine2": "phú lọc, tân châu, an giang",
+    "ward": "Bến Nghé",
+    "district": "quận 8",
+    "city": "hcm city",
+    "postalCode": "700000"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c93190286"
+      },
+      "variantId": null,
+      "productName": "Soft Plastic Hat",
+      "variantName": null,
+      "sku": "sleek-bamboo-chips",
+      "quantity": 1,
+      "unitPrice": 2850,
+      "unitCost": 1710,
+      "totalPrice": 2850,
+      "imageUrl": "{\n  _id: new ObjectId(\"69172f81852401fe2b1c5f45\"),\n  url: 'https://picsum.photos/seed/N9nqhkuu/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69172f81852401fe2b1c5f4b"
+      }
+    }
+  ],
+  "subtotal": 2850,
+  "discountAmount": 0,
+  "loyaltyPointsUsed": 0,
+  "loyaltyDiscount": 0,
+  "shippingFee": 0,
+  "taxAmount": 285,
+  "totalAmount": 3135,
+  "status": "pending_payment",
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "statusHistory": [
+    {
+      "status": "pending_payment",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-11-14T13:32:49.032Z"
+      },
+      "_id": {
+        "$oid": "69172f81852401fe2b1c5f4c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T13:32:49.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:32:49.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69172ff7852401fe2b1c6051"
+  },
+  "orderNumber": "ORD-20251114-002",
+  "userId": {
+    "$oid": "69172d11bcdc1cbba5b10938"
+  },
+  "customerEmail": "vykhang2k3@gmail.com",
+  "customerName": "Tran Khang",
+  "customerPhone": "0359545647",
+  "shippingAddress": {
+    "addressLine1": "tân uyên , bình dương",
+    "addressLine2": "phú lọc, tân châu, an giang",
+    "ward": "Bến Nghé",
+    "district": "quận 8",
+    "city": "hcm city",
+    "postalCode": "700000"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c93190279"
+      },
+      "variantId": null,
+      "productName": "Handmade Metal Sausages",
+      "variantName": null,
+      "sku": "incredible-bronze-salad",
+      "quantity": 1,
+      "unitPrice": 1438,
+      "unitCost": 862.8,
+      "totalPrice": 1438,
+      "imageUrl": "{\n  _id: new ObjectId(\"69172ff7852401fe2b1c603d\"),\n  url: 'https://picsum.photos/seed/dVDymz/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69172ff7852401fe2b1c6052"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c93190260"
+      },
+      "variantId": null,
+      "productName": "Small Silk Car",
+      "variantName": null,
+      "sku": "elegant-granite-tuna",
+      "quantity": 1,
+      "unitPrice": 2184,
+      "unitCost": 1310.3999999999999,
+      "totalPrice": 2184,
+      "imageUrl": "{\n  _id: new ObjectId(\"69172ff7852401fe2b1c6038\"),\n  url: 'https://picsum.photos/seed/63xVHcpDkO/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69172ff7852401fe2b1c6053"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c9319027a"
+      },
+      "variantId": null,
+      "productName": "Tasty Granite Shirt",
+      "variantName": null,
+      "sku": "gorgeous-plastic-ball",
+      "quantity": 11,
+      "unitPrice": 1725,
+      "unitCost": 1035,
+      "totalPrice": 18975,
+      "imageUrl": "{\n  _id: new ObjectId(\"69172ff7852401fe2b1c6042\"),\n  url: 'https://picsum.photos/seed/MnUgrK6/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69172ff7852401fe2b1c6054"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c93190289"
+      },
+      "variantId": null,
+      "productName": "Frozen Cotton Computer",
+      "variantName": null,
+      "sku": "modern-steel-towels",
+      "quantity": 22,
+      "unitPrice": 1044,
+      "unitCost": 626.4,
+      "totalPrice": 22968,
+      "imageUrl": "{\n  _id: new ObjectId(\"69172ff7852401fe2b1c6047\"),\n  url: 'https://picsum.photos/seed/McEXk/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69172ff7852401fe2b1c6055"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c9319028d"
+      },
+      "variantId": null,
+      "productName": "Awesome Aluminum Mouse",
+      "variantName": null,
+      "sku": "incredible-cotton-mouse",
+      "quantity": 6,
+      "unitPrice": 3471,
+      "unitCost": 2082.6,
+      "totalPrice": 20826,
+      "imageUrl": "{\n  _id: new ObjectId(\"69172ff7852401fe2b1c604b\"),\n  url: 'https://picsum.photos/seed/vTjE3d/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69172ff7852401fe2b1c6056"
+      }
+    }
+  ],
+  "subtotal": 66391,
+  "discountAmount": 0,
+  "loyaltyPointsUsed": 0,
+  "loyaltyDiscount": 0,
+  "shippingFee": 0,
+  "taxAmount": 6639.1,
+  "totalAmount": 73030.1,
+  "status": "delivered",
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "statusHistory": [
+    {
+      "status": "pending_payment",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-10-14T13:34:47.944Z"
+      },
+      "_id": {
+        "$oid": "69172ff7852401fe2b1c6057"
+      }
+    },
+    {
+      "status": "delivered",
+      "note": "Status changed from pending_payment to delivered",
+      "createdBy": {
+        "$oid": "69172d11bcdc1cbba5b10938"
+      },
+      "createdAt": {
+        "$date": "2025-10-14T13:35:39.699Z"
+      },
+      "_id": {
+        "$oid": "6917302b852401fe2b1c6167"
+      }
+    },
+    {
+      "status": "delivered",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-10-14T13:35:39.700Z"
+      },
+      "_id": {
+        "$oid": "6917302b852401fe2b1c6168"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-14T13:34:47.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-14T13:35:39.700Z"
+  },
+  "__v": 1,
+  "deliveredAt": {
+    "$date": "2025-10-14T13:35:39.696Z"
+  },
+  "paidAt": {
+    "$date": "2025-10-14T13:35:39.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69173001852401fe2b1c6097"
+  },
+  "orderNumber": "ORD-20251114-003",
+  "userId": {
+    "$oid": "69172d11bcdc1cbba5b10938"
+  },
+  "customerEmail": "vykhang2k3@gmail.com",
+  "customerName": "Tran Khang",
+  "customerPhone": "0359545647",
+  "shippingAddress": {
+    "addressLine1": "tân uyên , bình dương",
+    "addressLine2": "phú lọc, tân châu, an giang",
+    "ward": "Bến Nghé",
+    "district": "quận 8",
+    "city": "hcm city",
+    "postalCode": "700000"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c931902bb"
+      },
+      "variantId": null,
+      "productName": "Oriental Plastic Pizza",
+      "variantName": null,
+      "sku": "incredible-steel-table",
+      "quantity": 1,
+      "unitPrice": 2464,
+      "unitCost": 1478.3999999999999,
+      "totalPrice": 2464,
+      "imageUrl": "{\n  _id: new ObjectId(\"69173001852401fe2b1c608b\"),\n  url: 'https://picsum.photos/seed/Rx9qT/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69173001852401fe2b1c6098"
+      }
+    }
+  ],
+  "subtotal": 2464,
+  "discountAmount": 0,
+  "loyaltyPointsUsed": 0,
+  "loyaltyDiscount": 0,
+  "shippingFee": 0,
+  "taxAmount": 246.4,
+  "totalAmount": 2710.4,
+  "status": "delivered",
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "statusHistory": [
+    {
+      "status": "pending_payment",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-11-14T13:34:57.491Z"
+      },
+      "_id": {
+        "$oid": "69173001852401fe2b1c6099"
+      }
+    },
+    {
+      "status": "delivered",
+      "note": "Status changed from pending_payment to delivered",
+      "createdBy": {
+        "$oid": "69172d11bcdc1cbba5b10938"
+      },
+      "createdAt": {
+        "$date": "2025-11-14T13:35:21.678Z"
+      },
+      "_id": {
+        "$oid": "69173019852401fe2b1c614a"
+      }
+    },
+    {
+      "status": "delivered",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-11-14T13:35:21.679Z"
+      },
+      "_id": {
+        "$oid": "69173019852401fe2b1c614b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T13:34:57.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:35:21.679Z"
+  },
+  "__v": 1,
+  "deliveredAt": {
+    "$date": "2025-11-14T13:35:21.674Z"
+  },
+  "paidAt": {
+    "$date": "2025-11-14T13:35:21.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69173008852401fe2b1c60bb"
+  },
+  "orderNumber": "ORD-20251114-004",
+  "userId": {
+    "$oid": "69172d11bcdc1cbba5b10938"
+  },
+  "customerEmail": "vykhang2k3@gmail.com",
+  "customerName": "Tran Khang",
+  "customerPhone": "0359545647",
+  "shippingAddress": {
+    "addressLine1": "tân uyên , bình dương",
+    "addressLine2": "phú lọc, tân châu, an giang",
+    "ward": "Bến Nghé",
+    "district": "quận 8",
+    "city": "hcm city",
+    "postalCode": "700000"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6915b9a04d08344c93190286"
+      },
+      "variantId": null,
+      "productName": "Soft Plastic Hat",
+      "variantName": null,
+      "sku": "sleek-bamboo-chips",
+      "quantity": 1,
+      "unitPrice": 2850,
+      "unitCost": 1710,
+      "totalPrice": 2850,
+      "imageUrl": "{\n  _id: new ObjectId(\"69173008852401fe2b1c60b4\"),\n  url: 'https://picsum.photos/seed/N9nqhkuu/640/480',\n  altText: 'Primary image',\n  displayOrder: 1,\n  isPrimary: true\n}",
+      "_id": {
+        "$oid": "69173008852401fe2b1c60bc"
+      }
+    }
+  ],
+  "subtotal": 2850,
+  "discountAmount": 0,
+  "loyaltyPointsUsed": 0,
+  "loyaltyDiscount": 0,
+  "shippingFee": 0,
+  "taxAmount": 285,
+  "totalAmount": 3135,
+  "status": "delivered",
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "statusHistory": [
+    {
+      "status": "pending_payment",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-11-14T13:35:04.366Z"
+      },
+      "_id": {
+        "$oid": "69173008852401fe2b1c60bd"
+      }
+    },
+    {
+      "status": "delivered",
+      "note": "Status changed from pending_payment to delivered",
+      "createdBy": {
+        "$oid": "69172d11bcdc1cbba5b10938"
+      },
+      "createdAt": {
+        "$date": "2025-11-14T13:35:14.754Z"
+      },
+      "_id": {
+        "$oid": "69173012852401fe2b1c6131"
+      }
+    },
+    {
+      "status": "delivered",
+      "note": "Status updated",
+      "createdAt": {
+        "$date": "2025-11-14T13:35:14.755Z"
+      },
+      "_id": {
+        "$oid": "69173012852401fe2b1c6132"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T13:35:04.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:35:14.755Z"
+  },
+  "__v": 1,
+  "deliveredAt": {
+    "$date": "2025-11-14T13:35:14.749Z"
+  },
+  "paidAt": {
+    "$date": "2025-11-14T13:35:14.749Z"
+  }
+}]

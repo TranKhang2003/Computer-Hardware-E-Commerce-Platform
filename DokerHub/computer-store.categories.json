@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "6911c1b207e472f50e01c0c0"
+  },
+  "name": "Laptops",
+  "slug": "laptops",
+  "description": "Danh mục máy tính xách tay",
+  "parentId": null,
+  "imageUrl": "https://example.com/images/laptops.jpg",
+  "displayOrder": 1,
+  "isActive": true,
+  "metadata": {},
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b207e472f50e01c0c1"
+  },
+  "name": "Monitors",
+  "slug": "monitors",
+  "description": "Danh mục màn hình",
+  "parentId": null,
+  "imageUrl": "https://example.com/images/monitors.jpg",
+  "displayOrder": 2,
+  "isActive": true,
+  "metadata": {},
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b207e472f50e01c0c2"
+  },
+  "name": "Components",
+  "slug": "components",
+  "description": "Danh mục linh kiện máy tính",
+  "parentId": null,
+  "imageUrl": "https://example.com/images/components.jpg",
+  "displayOrder": 3,
+  "isActive": true,
+  "metadata": {},
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b207e472f50e01c0c3"
+  },
+  "name": "Accessories",
+  "slug": "accessories",
+  "description": "Danh mục phụ kiện",
+  "parentId": null,
+  "imageUrl": "https://example.com/images/accessories.jpg",
+  "displayOrder": 4,
+  "isActive": true,
+  "metadata": {},
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6911c1b207e472f50e01c0c4"
+  },
+  "name": "Storage",
+  "slug": "storage",
+  "description": "Danh mục thiết bị lưu trữ",
+  "parentId": null,
+  "imageUrl": "https://example.com/images/storage.jpg",
+  "displayOrder": 5,
+  "isActive": true,
+  "metadata": {},
+  "createdAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  }
+}]

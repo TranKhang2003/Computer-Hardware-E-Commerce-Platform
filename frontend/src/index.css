@@ -1,0 +1,197 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+@theme {
+  /* Light Mode - Tech Blue & Energy Orange */
+  --color-background: hsl(210 40% 98%);
+  --color-foreground: hsl(215 25% 15%);
+  --color-card: hsl(0 0% 100%);
+  --color-card-foreground: hsl(215 25% 15%);
+  --color-popover: hsl(0 0% 100%);
+  --color-popover-foreground: hsl(215 25% 15%);
+
+  /* Primary: Tech Blue Gradient */
+  --color-primary: hsl(210 100% 45%);
+  --color-primary-foreground: hsl(0 0% 100%);
+
+  /* Secondary: Deep Blue */
+  --color-secondary: hsl(215 30% 92%);
+  --color-secondary-foreground: hsl(215 25% 15%);
+
+  /* Muted: Light Gray Blue */
+  --color-muted: hsl(210 20% 95%);
+  --color-muted-foreground: hsl(215 15% 45%);
+
+  /* Accent: Energy Orange */
+  --color-accent: hsl(25 95% 53%);
+  --color-accent-foreground: hsl(0 0% 100%);
+
+  /* Destructive: Error Red */
+  --color-destructive: hsl(0 72% 51%);
+  --color-destructive-foreground: hsl(0 0% 100%);
+
+  --color-border: hsl(215 20% 88%);
+  --color-input: hsl(215 20% 88%);
+  --color-ring: hsl(210 100% 45%);
+  --radius: 0.5rem;
+
+  /* Gradient Colors */
+  --gradient-primary-start: hsl(210 100% 45%);
+  --gradient-primary-end: hsl(195 100% 50%);
+
+  --gradient-accent-start: hsl(25 95% 53%);
+  --gradient-accent-end: hsl(340 100% 60%);
+
+  --gradient-hero-start: hsl(210 100% 50%);
+  --gradient-hero-mid: hsl(195 100% 55%);
+  --gradient-hero-end: hsl(25 95% 55%);
+}
+
+.dark {
+  /* Dark Mode - Elegant Tech Theme */
+  --color-background: hsl(220 25% 10%);
+  --color-foreground: hsl(210 20% 95%);
+  --color-card: hsl(220 23% 14%);
+  --color-card-foreground: hsl(210 20% 95%);
+  --color-popover: hsl(220 23% 14%);
+  --color-popover-foreground: hsl(210 20% 95%);
+
+  /* Primary: Bright Tech Blue */
+  --color-primary: hsl(210 100% 55%);
+  --color-primary-foreground: hsl(220 25% 10%);
+
+  /* Secondary: Dark Blue Gray */
+  --color-secondary: hsl(220 20% 20%);
+  --color-secondary-foreground: hsl(210 20% 95%);
+
+  /* Muted: Medium Dark */
+  --color-muted: hsl(220 18% 22%);
+  --color-muted-foreground: hsl(215 15% 65%);
+
+  /* Accent: Vibrant Orange */
+  --color-accent: hsl(25 95% 58%);
+  --color-accent-foreground: hsl(220 25% 10%);
+
+  /* Destructive: Danger Red */
+  --color-destructive: hsl(0 70% 45%);
+  --color-destructive-foreground: hsl(210 20% 95%);
+
+  --color-border: hsl(220 18% 25%);
+  --color-input: hsl(220 18% 25%);
+  --color-ring: hsl(210 100% 55%);
+
+  /* Gradient Colors - Dark Mode */
+  --gradient-primary-start: hsl(210 100% 55%);
+  --gradient-primary-end: hsl(195 100% 60%);
+
+  --gradient-accent-start: hsl(25 95% 58%);
+  --gradient-accent-end: hsl(340 100% 65%);
+
+  --gradient-hero-start: hsl(210 100% 60%);
+  --gradient-hero-mid: hsl(195 100% 65%);
+  --gradient-hero-end: hsl(25 95% 60%);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+  }
+}
+
+@layer utilities {
+
+  /* Primary Button Gradient - Blue to Cyan */
+  .gradient-primary {
+    background: linear-gradient(135deg, var(--gradient-primary-start) 0%, var(--gradient-primary-end) 100%);
+  }
+
+  /* Accent Button Gradient - Orange to Pink */
+  .gradient-accent {
+    background: linear-gradient(135deg, var(--gradient-accent-start) 0%, var(--gradient-accent-end) 100%);
+  }
+
+  /* Hero Section Gradient - Multi-color */
+  .gradient-hero {
+    background: linear-gradient(135deg, var(--gradient-hero-start) 0%, var(--gradient-hero-mid) 50%, var(--gradient-hero-end) 100%);
+  }
+
+  /* Card Hover Gradient */
+  .gradient-card-hover {
+    background: linear-gradient(135deg, hsl(210 100% 45% / 0.1) 0%, hsl(195 100% 50% / 0.1) 100%);
+  }
+
+  /* Text Gradient */
+  .text-gradient-primary {
+    background: linear-gradient(135deg, var(--gradient-primary-start) 0%, var(--gradient-primary-end) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .text-gradient-accent {
+    background: linear-gradient(135deg, var(--gradient-accent-start) 0%, var(--gradient-accent-end) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Border Gradient */
+  .border-gradient-primary {
+    border: 2px solid transparent;
+    background: linear-gradient(var(--color-background), var(--color-background)) padding-box,
+      linear-gradient(135deg, var(--gradient-primary-start), var(--gradient-primary-end)) border-box;
+  }
+
+  /* Animated Gradient */
+  .gradient-animated {
+    background: linear-gradient(270deg, var(--gradient-hero-start), var(--gradient-hero-mid), var(--gradient-hero-end));
+    background-size: 200% 200%;
+    animation: gradient-shift 8s ease infinite;
+  }
+
+  @keyframes gradient-shift {
+    0% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  /* Glassmorphism with Gradient */
+  .glass-gradient {
+    background: linear-gradient(135deg,
+        hsl(210 100% 45% / 0.1) 0%,
+        hsl(195 100% 50% / 0.05) 100%);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+}
+
+@layer utilities {
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.5s ease-out forwards;
+  }
+}
