@@ -1,101 +1,258 @@
+# 🛒 E-Commerce Platform
 
-# Tài khoản test
-Email: admin@gmail.com
-Mật khẩu: admin1234
+> A full-stack e-commerce application with real-time features, comprehensive admin dashboard, and modern UI/UX design.
 
-# 🖥️ Computer Store – Fullstack Application
+<div align="center">
 
-Ứng dụng bán máy tính gồm Frontend (React + Vite), Backend (Node.js + Express), MongoDB, Redis, Authentication (Google + Facebook), AWS S3, VNPay, chạy bằng Docker Compose.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=google-chrome)](https://dv10ewzkxck25.cloudfront.net/)
+[![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge&logo=fastapi)](https://hardvia-api.work.gd)
 
-# 1. Công nghệ sử dụng
-Backend
-Node.js + Express
-MongoDB + mongoose
-Redis (cache, rate limit, session)
-JWT Authentication
-OAuth2 (Google, Facebook)
-AWS S3 Upload
-VNPay Payment Gateway
-Frontend
-React + Vite
-Zustand
-Axios
-TailwindCSS
-Infrastructure
-Docker & Docker Compose
-MongoDB 7
-Redis 7
-Nginx (serve frontend)
+**[View Live Demo](https://dv10ewzkxck25.cloudfront.net/)** | **[API Endpoint](https://hardvia-api.work.gd)**
+
+Administrator Account : admin@gmail.com 
+Pass: admin124
+</div>
+
+---
+
+## 🎯 Project Overview
+
+A production-ready e-commerce platform showcasing full-stack development skills with real-time communication, scalable architecture, and cloud deployment expertise. This project demonstrates end-to-end implementation from design to deployment.
+
+### ⚡ Quick Highlights
+
+- ✅ **Fully Deployed** on AWS CloudFront with custom API domain
+- ✅ **Real-time Features** using WebSocket for live updates
+- ✅ **Scalable Architecture** with horizontal scaling support
+- ✅ **Complete Admin Dashboard** for business management
+
+---
+
+## ✨ Key Features Implemented
+
+### 👤 User Authentication & Management
+- ✅ Social media authentication integration
+- ✅ User profile management
+- ✅ Password change and recovery system
+- ✅ Multiple delivery addresses support
+- ✅ Purchase history tracking
+
+### 🛍️ Shopping Features
+- ✅ Product catalog with category browsing
+- ✅ Product details with variants display
+- ✅ Advanced search and filtering by keyword
+- ✅ Product sorting (price, date, relevance)
+- ✅ Shopping cart with real-time updates
+- ✅ Complete checkout process
+- ✅ Discount code application
+- ✅ Email notifications after purchase
+- ✅ Product reviews and ratings
+- ✅ **Real-time review/rating updates via WebSocket**
+
+### 🎁 Advanced Features
+- ✅ Loyalty programs for customers
+- ✅ Discount code management system
+
+### 👨‍💼 Admin Dashboard
+- ✅ User management panel
+- ✅ Product management (CRUD operations)
+- ✅ Discount/promotion management
+- ✅ Order list view with filtering
+- ✅ Order details and status modification
+- ✅ Simple analytics dashboard
+
+### 🎨 UI/UX Excellence
+- ✅ Modern, intuitive interface
+- ✅ Smooth user experience
+- ✅ Loading states and error handling
+
+### ⚙️ Technical Excellence
+- ✅ Horizontal scaling capability
+- ✅ RESTful API design
+- ✅ WebSocket real-time communication
+- ✅ Cloud deployment (AWS)
+- ✅ CDN integration (CloudFront)
+- ✅ S3 storage with image optimization
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+```
+React 18.x          - UI library
+Vite 5.x            - Build tool
+Tailwind CSS        - Styling
+React Router v6     - Routing
+Axios               - HTTP client
+Socket.io Client    - Real-time communication
+Shadcn/ui           - UI components
+Lucide React        - Icons
+Zustand             - Store
+```
+
+### Backend
+```
+Node.js 18.x        - Runtime environment
+Express.js          - Web framework
+MongoDB Atlas       - Database
+Socket.io           - WebSocket server
+JWT                 - Authentication
+Passport.js         - OAuth strategies
+Nodemailer          - Email service
+Crypto              - Encryption
+```
 
 
-# 📦 2. Yêu cầu hệ thống
-# Cần cài đặt:
-Docker ≥ 24.x
-Docker Compose ≥ v2.x
-# Kiểm tra:
-docker -v
-docker compose version
+---
 
-# 🚀 3. Hướng dẫn chạy project
+## 📊 System Architecture
 
-# Bước 1: Khởi chạy Docker
+```
+┌─────────────────┐
+│   CloudFront    │ ← CDN for React app
+│   (Frontend)    │
+└────────┬────────┘
+         │
+┌────────▼────────┐
+│   React App     │
+│   (Vite Build)  │
+└────────┬────────┘
+         │ HTTPS
+         │
+┌────────▼────────┐
+│   EC2 Instance  │
+│   ┌──────────┐  │
+│   │  Nginx   │  │ ← Reverse Proxy + SSL
+│   └────┬─────┘  │
+│        │        │
+│   ┌────▼─────┐  │
+│   │ Node.js  │  │ ← Express API
+│   │   :5000  │  │
+│   └────┬─────┘  │
+└────────┼────────┘
+         │
+    ┌────┴────┬──────────┬──────────┐
+    │         │          │          │
+┌───▼───┐ ┌──▼──┐   ┌───▼───┐  ┌──▼───┐
+│MongoDB│ │Redis│   │  S3   │  │VNPay │
+│ Atlas │ │Cloud│   │Bucket │  │ API  │
+└───────┘ └─────┘   └───────┘  └──────┘
+```
 
-Trong thư mục Dockerhub chạy :
+---
 
-docker compose up --build -d
+## 🎬 Demo & Screenshots
+
+### 🔗 Live Application
+**Frontend**: [https://dv10ewzkxck25.cloudfront.net/](https://dv10ewzkxck25.cloudfront.net/)  
+**API**: hardvia-api.work.gd
+
+### 📸 Application Screenshots
+
+<div align="center">
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+</div>
+
+---
+
+## 💡 Technical Challenges & Solutions
+
+### Challenge 1: Real-time Updates
+**Problem**: Need to update product reviews and ratings instantly across all users  
+**Solution**: Implemented WebSocket connection for bidirectional real-time communication
+
+### Challenge 2: Scalability
+**Problem**: Application must handle growing user base  
+**Solution**: Designed stateless backend architecture supporting horizontal scaling
+
+### Challenge 3: Performance
+**Problem**: Fast global content delivery  
+**Solution**: Deployed frontend on AWS CloudFront CDN with edge caching
+
+### Challenge 4: User Experience
+**Problem**: Complex checkout process causing cart abandonment  
+**Solution**: Streamlined multi-step checkout with progress indicators and validation
+
+---
+
+## 🎓 Skills Demonstrated
+
+### Technical Skills
+- Full-stack web development (Frontend + Backend)
+- RESTful API design and implementation
+- Real-time communication (WebSocket)
+- Database design and optimization
+- Authentication and authorization
+- Cloud deployment (AWS)
+
+### Soft Skills
+- Problem-solving and debugging
+- System architecture design
+- Project planning and execution
+- Self-directed learning
+- Attention to detail
+
+---
+
+## 🚀 Future Improvements
+
+- [ ] Payment gateway integration (Stripe/PayPal)
+- [ ] Multi-language support (i18n)
+- [ ] Advanced product recommendations using ML
+- [ ] Mobile application (React Native/Flutter)
+- [ ] Enhanced analytics dashboard
+- [ ] Inventory management system
+- [ ] Live chat customer support
+- [ ] Progressive Web App (PWA)
 
 
-# Bước 2 : Import dữ liệu
-docker cp .\computer-store.products.json computer-store-mongodb:/data/products.json
-docker exec -i computer-store-mongodb mongoimport --db computer-store --collection products --jsonArray --file /data/products.json --username admin --password admin123 --authenticationDatabase admin
 
-docker cp .\computer-store.users.json computer-store-mongodb:/data/users.json
-docker exec -i computer-store-mongodb mongoimport --db computer-store --collection users --jsonArray --file /data/users.json --username admin --password admin123 --authenticationDatabase admin
+## 📄 Additional Information
 
+### Why This Project?
 
-docker cp .\computer-store.brands.json computer-store-mongodb:/data/brands.json
-docker exec -i computer-store-mongodb mongoimport --db computer-store --collection brands --jsonArray --file /data/brands.json --username admin --password admin123 --authenticationDatabase admin
+This e-commerce platform was built to demonstrate comprehensive full-stack development skills and real-world application deployment. The project showcases:
 
+- End-to-end feature implementation
+- Modern development practices
+- Production-ready code quality
+- Cloud deployment expertise
+- Problem-solving abilities
 
-docker cp .\computer-store.categories.json computer-store-mongodb:/data/categories.json
-docker exec -i computer-store-mongodb mongoimport --db computer-store --collection categories --jsonArray --file /data/categories.json --username admin --password admin123 --authenticationDatabase admin
+### Learning Outcomes
 
-docker cp .\computer-store.orders.json computer-store-mongodb:/data/orders.json
-docker exec -i computer-store-mongodb mongoimport --db computer-store --collection orders --jsonArray --file /data/orders.json --username admin --password admin123 --authenticationDatabase admin
+Through this project, I gained hands-on experience with:
+- Building scalable web applications
+- Implementing real-time features
+- Working with cloud services (AWS)
+- Database design and optimization
 
+---
 
-# 🔧 4. Environment variables chính
+## 🙏 Acknowledgments
 
-Các biến quan trọng nằm trong service backend:
+- Built with modern web technologies and best practices
+- Deployed on AWS infrastructure for reliability and performance
+- Designed with user experience as top priority
 
-MongoDB
-MONGODB_URI=mongodb://admin:admin123@mongodb:27017/computer-store?authSource=admin
-Redis
-REDIS_URL=redis://:redis123@redis:6379
-
-JWT
-JWT_SECRET=...
-JWT_EXPIRE=7d
-
-Email
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=465
-EMAIL_USER=...
-EMAIL_PASSWORD=...
-
-AWS S3
-AWS_ACCESS_KEY_ID=...
-AWS_SECRET_ACCESS_KEY=...
-AWS_REGION=ap-southeast-1
-AWS_S3_BUCKET_NAME=computerstore
-
-OAuth
-GOOGLE_CLIENT_ID=...
-GOOGLE_CLIENT_SECRET=...
-
-FACEBOOK_APP_ID=...
-FACEBOOK_APP_SECRET=...
-
-VNPay
-VNP_TMN_CODE=...
-VNP_HASH_SECRET=...
